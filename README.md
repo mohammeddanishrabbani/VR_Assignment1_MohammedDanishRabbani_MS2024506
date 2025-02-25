@@ -88,12 +88,12 @@ RUN VR_graded_assignment_01_part_2.ipynb
 
 ## Example Outputs for PART 2
 
-**KEYPOINT MATCHING**
+**KEYPOINT MATCHING**<br>
 <img src="part2_results/stiching_1.png" width="800" height="600"></img>
 <img src="part2_results/stiching_2.png" width="800" height="600"></img>
 <img src="part2_results/stiching_3.png" width="800" height="600"></img>
 
-**FINAL PANAROMA**
+**FINAL PANAROMA**<br>
 <img src="part2_results/panaroma.png" width="800" height="600"></img>
 
 
