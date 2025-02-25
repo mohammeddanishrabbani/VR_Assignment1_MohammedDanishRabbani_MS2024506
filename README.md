@@ -66,25 +66,22 @@ RUN VR_graded_assignment_01_part_2.ipynb
 - **Homography & Warping**: Images are aligned using homography transformation and blended together.
 
 ## Example Outputs for PART 1
-**FOR IMAGE**
+- **FOR IMAGE**
 <img src="coin_dataset/C_8.jpg" width="300" height="400">
-
 - **Edges**
-<img src="part1_results/C_8_edges.png" width="300" height="400">
+<img src="part1_results/C_8_edges.png" width="1000" height="800">
 - **Segmented Coins and count**
 - ***REGION BASED Segmentation***
 <img src="part1_results/C_8_region_based_segmentation.png" width="1000" height="800">
 
 
-
-
-**FOR IMAGE**
-![](coin_dataset\C_11.jpg)
+- **FOR IMAGE**
+<img src="coin_dataset/C_11.jpg" width="300" height="400">
 - **Edges**
-![](part1_results\C_11_edges.png)
+<img src="part1_results/C_11_edges.png" width="1000" height="800">
 - **Segmented Coins and count**
 - ***EDGE BASED Segmentation***
-![](part1_results\C_11_edge_based_segmentation.png)
+<img src="part1_results/C_11_edge_based_segmentation.png" width="1000" height="800">
 
 
 
