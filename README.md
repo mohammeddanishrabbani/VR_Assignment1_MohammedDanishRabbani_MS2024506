@@ -69,19 +69,19 @@ RUN VR_graded_assignment_01_part_2.ipynb
 - **FOR IMAGE**
 <img src="coin_dataset/C_8.jpg" width="300" height="400"></img>
 - **Edges**
-<img src="part1_results/C_8_edges.png" width="1000" height="800">
+<img src="part1_results/C_8_edges.png" width="1000" height="800"></img>
 - **Segmented Coins and count**
 - ***REGION BASED Segmentation***
-<img src="part1_results/C_8_region_based_segmentation.png" width="1000" height="800">
+<img src="part1_results/C_8_region_based_segmentation.png" width="1000" height="800"></img>
 
 
 - **FOR IMAGE**
-<img src="coin_dataset/C_11.jpg" width="300" height="400">
+<img src="coin_dataset/C_11.jpg" width="400" height="300"></img>
 - **Edges**
-<img src="part1_results/C_11_edges.png" width="1000" height="800">
+<img src="part1_results/C_11_edges.png" width="1000" height="800"></img>
 - **Segmented Coins and count**
 - ***EDGE BASED Segmentation***
-<img src="part1_results/C_11_edge_based_segmentation.png" width="1000" height="800">
+<img src="part1_results/C_11_edge_based_segmentation.png" width="1000" height="800"></img>
 
 
 
