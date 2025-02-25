@@ -26,16 +26,16 @@ pip install opencv-python numpy matplotlib
 
 ### Part 1: Coin Detection & Segmentation
 Instructions to run:
-Set the WORKING_DIR in VR_graded_assignment_01_part_1.ipynb
-Run VR_graded_assignment_01_part_1.ipynb on colab or jupiter Notebook
+Set the WORKING_DIR in VR_graded_assignment_01_part_1.ipynb and
+run VR_graded_assignment_01_part_1.ipynb on colab or jupiter Notebook
 - This script performs edge detection to detect coins.
 - Segments individual coins using region-based segmentation.
 - Counts the total number of coins and displays the output.
 
 ### Part 2: Panorama Stitching
 Instructions to run:
-Set the WORKING_DIR in VR_graded_assignment_01_part_2.ipynb
-Run VR_graded_assignment_01_part_2.ipynb on colab or jupiter Notebook
+Set the WORKING_DIR in VR_graded_assignment_01_part_2.ipynb and
+run VR_graded_assignment_01_part_2.ipynb on colab or jupiter Notebook
 - Extracts key points from overlapping images.
 - Aligns and stitches them to create a panorama.
 - Saves the final panorama image as output.
