@@ -67,7 +67,7 @@ RUN VR_graded_assignment_01_part_2.ipynb
 
 ## Example Outputs for PART 1
 - **FOR IMAGE**
-<img src="coin_dataset/C_8.jpg" width="300" height="400">
+<img src="coin_dataset/C_8.jpg" width="300" height="400"></img>
 - **Edges**
 <img src="part1_results/C_8_edges.png" width="1000" height="800">
 - **Segmented Coins and count**
@@ -99,8 +99,3 @@ RUN VR_graded_assignment_01_part_2.ipynb
 ![](part2_results\panaroma.png)
 
 
-
-
-
-
-[def]: part1_results\C_5_edges.png
