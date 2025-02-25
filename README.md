@@ -66,7 +66,7 @@ RUN VR_graded_assignment_01_part_2.ipynb
 - **Homography & Warping**: Images are aligned using homography transformation and blended together.
 
 ## Example Outputs for PART 1
-- **FOR IMAGE**
+- **FOR IMAGE**<br>
 <img src="coin_dataset/C_8.jpg" width="300" height="400"></img>
 - **Edges**
 <img src="part1_results/C_8_edges.png" width="1000" height="800"></img>
@@ -75,7 +75,7 @@ RUN VR_graded_assignment_01_part_2.ipynb
 <img src="part1_results/C_8_region_based_segmentation.png" width="1000" height="800"></img>
 
 
-- **FOR IMAGE**
+- **FOR IMAGE**<br>
 <img src="coin_dataset/C_11.jpg" width="400" height="300"></img>
 - **Edges**
 <img src="part1_results/C_11_edges.png" width="1000" height="800"></img>
@@ -89,13 +89,12 @@ RUN VR_graded_assignment_01_part_2.ipynb
 ## Example Outputs for PART 2
 
 **KEYPOINT MATCHING**
-![](part2_results\stiching_1.png)
-
-![](part2_results\stiching_2.png)
-
-![](part2_results\stiching_3.png)
+<img src="part2_results/stiching_1.png" width="800" height="600"></img>
+<img src="part2_results/stiching_2.png" width="800" height="600"></img>
+<img src="part2_results/stiching_3.png" width="800" height="600"></img>
 
 **FINAL PANAROMA**
-![](part2_results\panaroma.png)
+<img src="part2_results/panaroma.png" width="800" height="600"></img>
+
 
 
