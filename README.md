@@ -18,7 +18,7 @@ pip install opencv-python numpy matplotlib
 ## Dataset
 
 - Capture or obtain an image containing various Indian coins./ Use the images already present.
-- Capture a set of overlapping images using a smartphone for panorama stitching / Use the images already present.
+- Capture a set of overlapping images for panorama stitching / Use the images already present.
 - Place the coin images in a `coin_dataset/` directory within the repository.
 - Place the panaroma images in a `panaroma/` directory within the repository.
 
